@@ -8,6 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=YannouPio&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YannouPio&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YannouPio&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
+# 📊 LeetCode Stats:
+![LeetCode Stats](https://leetcard.jacoblin.cool/yannoupio?theme=dark&font=Noto%20Music&ext=heatmap)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
